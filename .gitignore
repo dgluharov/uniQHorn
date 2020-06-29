@@ -1,5 +1,7 @@
 HELP.md
 target/
+bin/
+.metadata/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/test/**
 
