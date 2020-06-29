@@ -21,3 +21,9 @@ This is the repository for the internal Quality House project - Uniqhorn(a times
     2. Select ***Maven*** and choose appropriate name for configuration  
     3. In **Command line** input field press ***Ctrl+Space*** and choose **spring-boot:run** from dropdown
 8. Run project
+
+## Create API documentation
+1. Download and install **Node.js** from here: https://nodejs.org/en
+2. Go to cmd and write the following command: **_npm install -g apidoc_**
+3. Start cmd in the project folder and write the following command: **_apidoc -i "enter_project_path" -o "enter_output_directory"_**
+4. Go to the created folder and open index.html file to see the API documentation

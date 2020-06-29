@@ -17,6 +17,7 @@ target/
 *.iws
 *.iml
 *.ipr
+bin/
 
 ### NetBeans ###
 /nbproject/private/
@@ -31,3 +32,4 @@ build/
 
 ### Eclipse ###
 target/
+.metadata/
