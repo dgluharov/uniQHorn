@@ -1,1 +1,0 @@
-This is the repository for the internal Quality House project - Uniqhorn(a timesheet management system).
